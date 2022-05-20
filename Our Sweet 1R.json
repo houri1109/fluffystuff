@@ -1,6 +1,6 @@
 {
-  "title": "Our Sweet 1R",
-  "description": "Dating for two years, these two love birds have lived together in a one-room apartment for one year. Their love for each other un unknown to anyone else in their University, but this doesn’t stop them from loving one another more.",
+  "title": "Êm đềm đôi ta",
+  "description": "Hẹn hò đã được hai năm, ở nơi êm ấm của đôi tình nhân Shima và Kamane, khi ấy họ đã hiểu lầm nhau. Thứ gì đã thêu dệt nên sự hiểu lầm này? Liệu sự hiểu lầm ấy có làm rạn nứt mối quan hệ nồng thắm kia?",
   "artist": "Kamo Burger",
   "author": "Kamo Burger",
   "cover": "https://uploads.mangadex.org/covers/128045f2-b8f6-4584-b217-b690ab380efc/11d92c7b-7c42-412f-87f4-fef602628db2.jpg",
@@ -11,6 +11,46 @@
       "last_updated": "1653046934",
       "groups": {
         "Fluffy Stuff": "/proxy/api/imgur/chapter/Wuu02AQ"
+      }
+    },
+    "2": {
+      "title": "Chương 2",
+      "volume": "",
+      "last_updated": "1653048777",
+      "groups": {
+        "Fluffy Stuff": "https://imgur.com/a/c2XAhkX"
+      }
+    },
+    "3": {
+      "title": "Chương 3",
+      "volume": "",
+      "last_updated": "1653048850",
+      "groups": {
+        "Fluffy Stuff": "/proxy/api/imgur/chapter/V1S1ydz"
+      }
+    },
+    "4": {
+      "title": "Chương 4",
+      "volume": "",
+      "last_updated": "1653055934",
+      "groups": {
+        "Fluffy Stuff": "/proxy/api/imgur/chapter/I4Cqrbx"
+      }
+    },
+    "5": {
+      "title": "Chương 5",
+      "volume": "",
+      "last_updated": "1653055993",
+      "groups": {
+        "Fluffy Stuff": "/proxy/api/imgur/chapter/Rz8TsBt"
+      }
+    },
+    "6": {
+      "title": "Ngoại truyện",
+      "volume": "",
+      "last_updated": "1653056070",
+      "groups": {
+        "Fluffy Stuff": "/proxy/api/imgur/chapter/A01wGLR"
       }
     }
   }
