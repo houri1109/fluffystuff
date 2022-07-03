@@ -12,6 +12,22 @@
       "groups": {
         "Fluffy Stuff": "/proxy/api/imgur/chapter/PVJeUYL"
       }
+    },
+    "2": {
+      "title": "Chương 2",
+      "volume": "1",
+      "last_updated": "1656880413",
+      "groups": {
+        "Fluffy Stuff": "/proxy/api/imgur/chapter/gHkSDws"
+      }
+    },
+    "3": {
+      "title": "Chương 3",
+      "volume": "1",
+      "last_updated": "1656880444",
+      "groups": {
+        "Fluffy Stuff": "/proxy/api/imgur/chapter/05DG3Ap"
+      }
     }
   }
 }
