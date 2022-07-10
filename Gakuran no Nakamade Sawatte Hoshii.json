@@ -53,6 +53,46 @@
         "Fluffy Stuff": "/proxy/api/imgur/chapter/wzc1Lq3"
       }
     },
+    "7": {
+      "title": "Chương 7",
+      "volume": "2",
+      "last_updated": "1657418181",
+      "groups": {
+        "Fluffy Stuff": "/proxy/api/imgur/chapter/yJmOVfX"
+      }
+    },
+    "8": {
+      "title": "Chương 8",
+      "volume": "2",
+      "last_updated": "1657418503",
+      "groups": {
+        "Fluffy Stuff": "/proxy/api/imgur/chapter/7O1gMr0"
+      }
+    },
+    "9": {
+      "title": "Chương 9",
+      "volume": "2",
+      "last_updated": "1657418629",
+      "groups": {
+        "Fluffy Stuff": "/proxy/api/imgur/chapter/ymdIW5r"
+      }
+    },
+    "10": {
+      "title": "Chương cuối",
+      "volume": "2",
+      "last_updated": "1657418848",
+      "groups": {
+        "Fluffy Stuff": "/proxy/api/imgur/chapter/wS7CF0Y"
+      }
+    },
+    "11": {
+      "title": "Ngoại truyện 1",
+      "volume": "0",
+      "last_updated": "1657419214",
+      "groups": {
+        "Fluffy Stuff": "/proxy/api/imgur/chapter/hpEfAgB"
+      }
+    },
     "5.5": {
       "title": "Phụ chương 1",
       "volume": "1",
@@ -62,11 +102,35 @@
       }
     },
     "5.6": {
-      "title": "5.6",
+      "title": "Phụ chương 2",
       "volume": "1",
       "last_updated": "1657417861",
       "groups": {
         "Fluffy Stuff": "/proxy/api/imgur/chapter/cPI0Z4M"
+      }
+    },
+    "5.7": {
+      "title": "Phụ chương 3",
+      "volume": "1",
+      "last_updated": "1657417978",
+      "groups": {
+        "Fluffy Stuff": "/proxy/api/imgur/chapter/ehIDfIw"
+      }
+    },
+    "7.5": {
+      "title": "Phụ chương 4",
+      "volume": "2",
+      "last_updated": "1657418294",
+      "groups": {
+        "Fluffy Stuff": "/proxy/api/imgur/chapter/On1W3AW"
+      }
+    },
+    "10.5": {
+      "title": "Phụ chương 5",
+      "volume": "2",
+      "last_updated": "1657418983",
+      "groups": {
+        "Fluffy Stuff": "/proxy/api/imgur/chapter/BwUvUV3"
       }
     }
   }
